@@ -1,1 +1,1 @@
-# Text-counter-for-whatsapp
+# Text-counter-for-whatsapp chats
